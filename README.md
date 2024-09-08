@@ -1,5 +1,7 @@
 # Personel-Yonetim-Sistemi
 C# ile geliştirilmiş ve SQL Server veritabanıyla entegre çalışan bir masaüstü personel yönetim sistemini içermektedir.Sistem, personel bilgilerini saklama, güncelleme ve yönetme gibi işlemleri yapabilmenizi sağlar. Projede, temel SQL sorguları ve veri tabanı yönetim sistemleri kullanılarak bir yönetim arayüzü oluşturulmuştur.
+
+
 ![Ekran görüntüsü 2024-09-08 031917](https://github.com/user-attachments/assets/30450280-f847-4b83-8395-5a000d51f066)
 ![Ekran görüntüsü 2024-09-08 032108](https://github.com/user-attachments/assets/2c9f45b1-67a4-4533-b3e8-0789bdac1107)
 ![Ekran görüntüsü 2024-09-08 032215](https://github.com/user-attachments/assets/fea2402b-5ca8-4485-93c1-a5ed2942f215)
